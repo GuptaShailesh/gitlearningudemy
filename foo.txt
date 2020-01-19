@@ -1,2 +1,2 @@
-this text is updated to check for merge conflict in merge brnach
+this text is updated to check for merge conflict in merge branch to add	
 
