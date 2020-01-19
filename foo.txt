@@ -1,1 +1,1 @@
-this text is updated to check for merge1 conflict in merging branch
+this text is updated to check for merge1 conflict in merging branch and adding the conflcits 
