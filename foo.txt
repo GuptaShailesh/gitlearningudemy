@@ -1,1 +1,1 @@
-this text is updated to check for merge conflict in mertorgin barganing
+this text is updated to check for merge conflict in merging branch1
